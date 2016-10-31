@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bignumber.js": "^2.4.0",
+    "lodash": "^4.16.4",
+    "mathjs": "^3.5.3"
+  }
+}
